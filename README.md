@@ -1,7 +1,6 @@
 # Regulatory Compliance Risk Tracker
 
 - This tool ensures a portfolio complies with regulatory requirements (e.g., Basel III, Dodd-Frank) by tracking key metrics like capital adequacy, liquidity coverage, and leverage ratios.
-- It helps the team monitor and mitigate compliance risks over time.
 
 ---
 
