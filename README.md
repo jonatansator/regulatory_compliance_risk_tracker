@@ -25,3 +25,7 @@
   - Leverage Ratio: Assets / Capital.
 - **Compliance Check**: Evaluates compliance against thresholds (CAR ≥ 8%, LCR ≥ 1.0, Leverage ≤ 10.0) and computes an overall compliance rate.
 - **Visualization**: Plots CAR and LCR over time with minimum thresholds using Plotly, styled with a dual y-axis layout.
+
+## Screenshots
+![output](output.png)
+
